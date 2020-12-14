@@ -17,7 +17,7 @@ RQ2: How do vote scores on a comment affect the subsequent level of interaction 
 - `RQ2_analysis.R` provides R code to reproduce the analysis of *direct replies* (RQ2)
 - `Python_analysis.ipynb` provides Python code to reproduce the analysis of *entire reply trees* (RQ2)
 
-Unfortunately we are not able to upload datasets due to Reddit API Terms of Service. If you would like further information about the data, please contact us.
+Unfortunately we are not able to upload datasets due to Reddit API Terms of Service. However, the data are available from the Pushshift archives: https://files.pushshift.io/reddit/comments/. Our analysis is on comment dataset files from 2018. If you would like further information about the data, please contact us.
 
 Notes:
 
