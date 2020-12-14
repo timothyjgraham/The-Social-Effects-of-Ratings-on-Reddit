@@ -17,10 +17,7 @@ RQ2: How do vote scores on a comment affect the subsequent level of interaction 
 - `RQ2_analysis.R` provides R code to reproduce the analysis of *direct replies* (RQ2)
 - `Python_analysis.ipynb` provides Python code to reproduce the analysis of *entire reply trees* (RQ2)
 
-We also provide datasets to enable the exact results of our analysis to be reproduced:
-
-- DATASET 1 
-- DATASET 2
+Unfortunately we are not able to upload datasets due to Reddit API Terms of Service. If you would like further information about the data, please contact us.
 
 Notes:
 
